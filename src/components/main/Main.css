@@ -1,0 +1,13 @@
+
+.list-group, .person-details-wrapper{
+	
+	margin: 1em;
+	
+}
+.main-wrapper{
+	padding: 3%;
+}
+
+.content-wrapper{
+	display: flex;
+}

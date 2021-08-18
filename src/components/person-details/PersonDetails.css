@@ -1,0 +1,25 @@
+.person-details-wrapper{
+	padding:2em;
+	border-radius: 10px;
+	display: flex;
+	width: 100%;
+	min-width: 320px;
+}
+.person-img{
+	height: 20em;
+    border-radius: 10px;
+
+}
+.person-description-wrapper{
+	margin-left: 10px;
+	width: 70%;
+}
+.person-details-list-group{
+	width: 70%;
+}
+@media (max-width:800px){
+	.person-img{
+		height: 15em;
+	}
+	
+}

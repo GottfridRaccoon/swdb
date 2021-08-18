@@ -1,0 +1,32 @@
+.logo{
+	color: white;
+	text-decoration: none;
+	width: 30%;
+	min-width: 100px;
+}
+.logo:hover{
+	color: white;
+}
+.header-wrapper{
+	margin: 3%;
+	min-width: 500px;
+}
+.header-navigation{
+	width: 30%;
+	justify-content: space-between;
+	margin-top: auto;
+	margin-left: 2%;
+	
+}
+li{
+	
+	min-width: 70px;
+	display: flex;
+	
+}
+
+li > a {
+	text-decoration: none;
+}
+
+
